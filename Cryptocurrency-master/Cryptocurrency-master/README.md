@@ -19,7 +19,6 @@ npm install
 
 
 #### Please feel free to share your queries, suggestions here or on :
-   ##### Email    gauravmohanbansal@gmail.com
-   ##### LinkedIn https://www.linkedin.com/in/gauravmohanbansal/
-   ##### Skype    ```gaurav.mohan.bansal```
-   ##### Project  info@nugatebantech.com
+   ##### Email    drishti.dt@gmail.com
+   ##### LinkedIn www.linkedin.com/in/drishtishankarsingh
+   ##### Skype    ```drishti.singh```
